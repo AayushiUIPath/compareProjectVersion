@@ -1,7 +1,7 @@
 {
   "name": "compareProjectVersion",
   "projectId": "9d437d2a-fb55-4610-808e-6c2ac98b77c0",
-  "description": "Blank Process",
+  "description": "Blank Process1",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[25.2.1]"
